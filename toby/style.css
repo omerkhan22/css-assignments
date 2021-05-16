@@ -1,0 +1,47 @@
+body{
+	text-align: center;
+	background-color: white;
+}
+
+.container{
+    width: 1000px;
+    height: 500px;
+    
+    background-color: white;
+    text-align: center;
+    margin-top: 200px;
+    margin-left: 150px;
+    margin-bottom: 200px;
+    display: flex;
+}
+
+
+hr{
+	border: 1px solid;
+    width: 90px;
+    text-align: center;
+}
+
+img{
+	border-radius: 50px;
+}
+
+
+.con{
+	margin: 150px;
+	color: white;
+}
+
+
+.con2{
+	margin: 150px;
+	color: #1c96c5;
+}
+.box1{
+	width: 500px;
+	background-color: #1c96c5;
+}
+.box2{
+	width: 500px;
+	background-color: white;
+}
